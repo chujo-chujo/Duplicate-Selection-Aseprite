@@ -24,6 +24,8 @@ This README describes only the Pro edition; some features mentioned here do not 
 - All user settings are persisted in an external [settings file](#settings-file).
 - Supports rectangular and non-rectangular (lasso) selections.
 
+![Example](_readme/usage1.gif "Example usage")
+
 
 ## Installation
 
@@ -42,8 +44,6 @@ This README describes only the Pro edition; some features mentioned here do not 
 
 ## Usage
 
-![Usage](_readme/usage.gif "Example usage")
-
 1. Run the script:  
    `File > Scripts > Duplicate Selection (Pro).lua`<br>
    (I recommend assigning a keyboard shortcut, e.g. <kbd>Ctrl + D</kbd>)
@@ -57,10 +57,16 @@ This README describes only the Pro edition; some features mentioned here do not 
     - **Duplicate**: Duplicates the selected area at the specified offset.
     - **Duplicate (+shift selection)**: Duplicates and shifts the selection by the same offset.
 6. Close the dialog when finished (settings are saved automatically).
-  
 
+<br>
+
+![Example](_readme/usage2.gif "Example usage")
+
+<br>
+  
 > The dialog window stays open until manually closed, enabling continuous editing.
 
+<br>
 
 ## Presets
 
